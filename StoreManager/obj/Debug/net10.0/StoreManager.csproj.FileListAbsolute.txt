@@ -1,0 +1,15 @@
+/home/marfz/Documents/School/4T School Files/DSTALGO/StoreManager/bin/Debug/net10.0/StoreManager
+/home/marfz/Documents/School/4T School Files/DSTALGO/StoreManager/bin/Debug/net10.0/StoreManager.deps.json
+/home/marfz/Documents/School/4T School Files/DSTALGO/StoreManager/bin/Debug/net10.0/StoreManager.runtimeconfig.json
+/home/marfz/Documents/School/4T School Files/DSTALGO/StoreManager/bin/Debug/net10.0/StoreManager.dll
+/home/marfz/Documents/School/4T School Files/DSTALGO/StoreManager/bin/Debug/net10.0/StoreManager.pdb
+/home/marfz/Documents/School/4T School Files/DSTALGO/StoreManager/obj/Debug/net10.0/StoreManager.GeneratedMSBuildEditorConfig.editorconfig
+/home/marfz/Documents/School/4T School Files/DSTALGO/StoreManager/obj/Debug/net10.0/StoreManager.AssemblyInfoInputs.cache
+/home/marfz/Documents/School/4T School Files/DSTALGO/StoreManager/obj/Debug/net10.0/StoreManager.AssemblyInfo.cs
+/home/marfz/Documents/School/4T School Files/DSTALGO/StoreManager/obj/Debug/net10.0/StoreManager.csproj.CoreCompileInputs.cache
+/home/marfz/Documents/School/4T School Files/DSTALGO/StoreManager/obj/Debug/net10.0/StoreManager.sourcelink.json
+/home/marfz/Documents/School/4T School Files/DSTALGO/StoreManager/obj/Debug/net10.0/StoreManager.dll
+/home/marfz/Documents/School/4T School Files/DSTALGO/StoreManager/obj/Debug/net10.0/refint/StoreManager.dll
+/home/marfz/Documents/School/4T School Files/DSTALGO/StoreManager/obj/Debug/net10.0/StoreManager.pdb
+/home/marfz/Documents/School/4T School Files/DSTALGO/StoreManager/obj/Debug/net10.0/StoreManager.genruntimeconfig.cache
+/home/marfz/Documents/School/4T School Files/DSTALGO/StoreManager/obj/Debug/net10.0/ref/StoreManager.dll
