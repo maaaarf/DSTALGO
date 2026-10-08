@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="JaggedArrays/JaggedArrays.csproj" />
+  <Project Path="OOPFromISPRGG2/OOPFromISPRGG2.csproj" />
+  <Project Path="SelectionSort/SelectionSort.csproj" />
+</Solution>

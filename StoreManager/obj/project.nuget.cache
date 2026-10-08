@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "B/lSSomrC70=",
+  "success": true,
+  "projectFilePath": "/home/marfz/Documents/School/4T School Files/DSTALGO/StoreManager/StoreManager.csproj",
+  "expectedPackageFiles": [
+    "/home/marfz/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.11/microsoft.aspnetcore.app.ref.10.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}
