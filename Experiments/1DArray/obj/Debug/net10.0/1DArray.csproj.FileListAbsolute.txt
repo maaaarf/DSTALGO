@@ -1,0 +1,15 @@
+/home/marfz/Documents/School/4T School Files/DSTALGO/Experiments/1DArray/bin/Debug/net10.0/1DArray
+/home/marfz/Documents/School/4T School Files/DSTALGO/Experiments/1DArray/bin/Debug/net10.0/1DArray.deps.json
+/home/marfz/Documents/School/4T School Files/DSTALGO/Experiments/1DArray/bin/Debug/net10.0/1DArray.runtimeconfig.json
+/home/marfz/Documents/School/4T School Files/DSTALGO/Experiments/1DArray/bin/Debug/net10.0/1DArray.dll
+/home/marfz/Documents/School/4T School Files/DSTALGO/Experiments/1DArray/bin/Debug/net10.0/1DArray.pdb
+/home/marfz/Documents/School/4T School Files/DSTALGO/Experiments/1DArray/obj/Debug/net10.0/1DArray.GeneratedMSBuildEditorConfig.editorconfig
+/home/marfz/Documents/School/4T School Files/DSTALGO/Experiments/1DArray/obj/Debug/net10.0/1DArray.AssemblyInfoInputs.cache
+/home/marfz/Documents/School/4T School Files/DSTALGO/Experiments/1DArray/obj/Debug/net10.0/1DArray.AssemblyInfo.cs
+/home/marfz/Documents/School/4T School Files/DSTALGO/Experiments/1DArray/obj/Debug/net10.0/1DArray.csproj.CoreCompileInputs.cache
+/home/marfz/Documents/School/4T School Files/DSTALGO/Experiments/1DArray/obj/Debug/net10.0/1DArray.sourcelink.json
+/home/marfz/Documents/School/4T School Files/DSTALGO/Experiments/1DArray/obj/Debug/net10.0/1DArray.dll
+/home/marfz/Documents/School/4T School Files/DSTALGO/Experiments/1DArray/obj/Debug/net10.0/refint/1DArray.dll
+/home/marfz/Documents/School/4T School Files/DSTALGO/Experiments/1DArray/obj/Debug/net10.0/1DArray.pdb
+/home/marfz/Documents/School/4T School Files/DSTALGO/Experiments/1DArray/obj/Debug/net10.0/1DArray.genruntimeconfig.cache
+/home/marfz/Documents/School/4T School Files/DSTALGO/Experiments/1DArray/obj/Debug/net10.0/ref/1DArray.dll

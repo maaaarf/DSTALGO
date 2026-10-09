@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hL0mJRjNdsE=",
+  "success": true,
+  "projectFilePath": "/home/marfz/Documents/School/4T School Files/DSTALGO/Experiments/1DArray/1DArray.csproj",
+  "expectedPackageFiles": [
+    "/home/marfz/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.11/microsoft.aspnetcore.app.ref.10.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}
