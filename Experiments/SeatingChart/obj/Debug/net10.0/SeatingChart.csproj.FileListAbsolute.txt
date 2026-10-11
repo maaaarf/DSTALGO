@@ -1,0 +1,15 @@
+/home/marfz/Documents/School/4T School Files/DSTALGO/Experiments/SeatingChart/bin/Debug/net10.0/SeatingChart
+/home/marfz/Documents/School/4T School Files/DSTALGO/Experiments/SeatingChart/bin/Debug/net10.0/SeatingChart.deps.json
+/home/marfz/Documents/School/4T School Files/DSTALGO/Experiments/SeatingChart/bin/Debug/net10.0/SeatingChart.runtimeconfig.json
+/home/marfz/Documents/School/4T School Files/DSTALGO/Experiments/SeatingChart/bin/Debug/net10.0/SeatingChart.dll
+/home/marfz/Documents/School/4T School Files/DSTALGO/Experiments/SeatingChart/bin/Debug/net10.0/SeatingChart.pdb
+/home/marfz/Documents/School/4T School Files/DSTALGO/Experiments/SeatingChart/obj/Debug/net10.0/SeatingChart.GeneratedMSBuildEditorConfig.editorconfig
+/home/marfz/Documents/School/4T School Files/DSTALGO/Experiments/SeatingChart/obj/Debug/net10.0/SeatingChart.AssemblyInfoInputs.cache
+/home/marfz/Documents/School/4T School Files/DSTALGO/Experiments/SeatingChart/obj/Debug/net10.0/SeatingChart.AssemblyInfo.cs
+/home/marfz/Documents/School/4T School Files/DSTALGO/Experiments/SeatingChart/obj/Debug/net10.0/SeatingChart.csproj.CoreCompileInputs.cache
+/home/marfz/Documents/School/4T School Files/DSTALGO/Experiments/SeatingChart/obj/Debug/net10.0/SeatingChart.sourcelink.json
+/home/marfz/Documents/School/4T School Files/DSTALGO/Experiments/SeatingChart/obj/Debug/net10.0/SeatingChart.dll
+/home/marfz/Documents/School/4T School Files/DSTALGO/Experiments/SeatingChart/obj/Debug/net10.0/refint/SeatingChart.dll
+/home/marfz/Documents/School/4T School Files/DSTALGO/Experiments/SeatingChart/obj/Debug/net10.0/SeatingChart.pdb
+/home/marfz/Documents/School/4T School Files/DSTALGO/Experiments/SeatingChart/obj/Debug/net10.0/SeatingChart.genruntimeconfig.cache
+/home/marfz/Documents/School/4T School Files/DSTALGO/Experiments/SeatingChart/obj/Debug/net10.0/ref/SeatingChart.dll

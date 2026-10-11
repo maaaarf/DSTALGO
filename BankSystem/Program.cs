@@ -55,7 +55,6 @@ namespace BankSystem
                 }
             }
         }
-
     }
 
 
@@ -70,10 +69,6 @@ namespace BankSystem
             {
                 Acc1.View();
             }
-
         }
     }
-
-    
-
 }

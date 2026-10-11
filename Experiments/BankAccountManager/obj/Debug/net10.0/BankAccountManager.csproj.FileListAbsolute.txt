@@ -1,0 +1,15 @@
+/home/marfz/Documents/School/4T School Files/DSTALGO/Experiments/BankAccountManager/obj/Debug/net10.0/BankAccountManager.GeneratedMSBuildEditorConfig.editorconfig
+/home/marfz/Documents/School/4T School Files/DSTALGO/Experiments/BankAccountManager/obj/Debug/net10.0/BankAccountManager.AssemblyInfoInputs.cache
+/home/marfz/Documents/School/4T School Files/DSTALGO/Experiments/BankAccountManager/obj/Debug/net10.0/BankAccountManager.AssemblyInfo.cs
+/home/marfz/Documents/School/4T School Files/DSTALGO/Experiments/BankAccountManager/obj/Debug/net10.0/BankAccountManager.csproj.CoreCompileInputs.cache
+/home/marfz/Documents/School/4T School Files/DSTALGO/Experiments/BankAccountManager/obj/Debug/net10.0/BankAccountManager.sourcelink.json
+/home/marfz/Documents/School/4T School Files/DSTALGO/Experiments/BankAccountManager/bin/Debug/net10.0/BankAccountManager
+/home/marfz/Documents/School/4T School Files/DSTALGO/Experiments/BankAccountManager/bin/Debug/net10.0/BankAccountManager.deps.json
+/home/marfz/Documents/School/4T School Files/DSTALGO/Experiments/BankAccountManager/bin/Debug/net10.0/BankAccountManager.runtimeconfig.json
+/home/marfz/Documents/School/4T School Files/DSTALGO/Experiments/BankAccountManager/bin/Debug/net10.0/BankAccountManager.dll
+/home/marfz/Documents/School/4T School Files/DSTALGO/Experiments/BankAccountManager/bin/Debug/net10.0/BankAccountManager.pdb
+/home/marfz/Documents/School/4T School Files/DSTALGO/Experiments/BankAccountManager/obj/Debug/net10.0/BankAccountManager.dll
+/home/marfz/Documents/School/4T School Files/DSTALGO/Experiments/BankAccountManager/obj/Debug/net10.0/refint/BankAccountManager.dll
+/home/marfz/Documents/School/4T School Files/DSTALGO/Experiments/BankAccountManager/obj/Debug/net10.0/BankAccountManager.pdb
+/home/marfz/Documents/School/4T School Files/DSTALGO/Experiments/BankAccountManager/obj/Debug/net10.0/BankAccountManager.genruntimeconfig.cache
+/home/marfz/Documents/School/4T School Files/DSTALGO/Experiments/BankAccountManager/obj/Debug/net10.0/ref/BankAccountManager.dll
