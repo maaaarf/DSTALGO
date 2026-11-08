@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NWkU0RN4LLQ=",
+  "success": true,
+  "projectFilePath": "/home/marfz/Documents/School/4T School Files/DSTALGO/FINALS/Enrollment_System/Enrollment_System.csproj",
+  "expectedPackageFiles": [
+    "/home/marfz/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.13/microsoft.aspnetcore.app.ref.10.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

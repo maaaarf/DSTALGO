@@ -1,0 +1,15 @@
+/home/marfz/Documents/School/4T School Files/DSTALGO/ExploringLists/AccountManager/bin/Debug/net10.0/AccountManager
+/home/marfz/Documents/School/4T School Files/DSTALGO/ExploringLists/AccountManager/bin/Debug/net10.0/AccountManager.deps.json
+/home/marfz/Documents/School/4T School Files/DSTALGO/ExploringLists/AccountManager/bin/Debug/net10.0/AccountManager.runtimeconfig.json
+/home/marfz/Documents/School/4T School Files/DSTALGO/ExploringLists/AccountManager/bin/Debug/net10.0/AccountManager.dll
+/home/marfz/Documents/School/4T School Files/DSTALGO/ExploringLists/AccountManager/bin/Debug/net10.0/AccountManager.pdb
+/home/marfz/Documents/School/4T School Files/DSTALGO/ExploringLists/AccountManager/obj/Debug/net10.0/AccountManager.GeneratedMSBuildEditorConfig.editorconfig
+/home/marfz/Documents/School/4T School Files/DSTALGO/ExploringLists/AccountManager/obj/Debug/net10.0/AccountManager.AssemblyInfoInputs.cache
+/home/marfz/Documents/School/4T School Files/DSTALGO/ExploringLists/AccountManager/obj/Debug/net10.0/AccountManager.AssemblyInfo.cs
+/home/marfz/Documents/School/4T School Files/DSTALGO/ExploringLists/AccountManager/obj/Debug/net10.0/AccountManager.csproj.CoreCompileInputs.cache
+/home/marfz/Documents/School/4T School Files/DSTALGO/ExploringLists/AccountManager/obj/Debug/net10.0/AccountManager.sourcelink.json
+/home/marfz/Documents/School/4T School Files/DSTALGO/ExploringLists/AccountManager/obj/Debug/net10.0/AccountManager.dll
+/home/marfz/Documents/School/4T School Files/DSTALGO/ExploringLists/AccountManager/obj/Debug/net10.0/refint/AccountManager.dll
+/home/marfz/Documents/School/4T School Files/DSTALGO/ExploringLists/AccountManager/obj/Debug/net10.0/AccountManager.pdb
+/home/marfz/Documents/School/4T School Files/DSTALGO/ExploringLists/AccountManager/obj/Debug/net10.0/AccountManager.genruntimeconfig.cache
+/home/marfz/Documents/School/4T School Files/DSTALGO/ExploringLists/AccountManager/obj/Debug/net10.0/ref/AccountManager.dll

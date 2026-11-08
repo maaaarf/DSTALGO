@@ -1,0 +1,15 @@
+/home/marfz/Documents/School/4T School Files/DSTALGO/Week10/Week10Thing/bin/Debug/net10.0/Week10Thing
+/home/marfz/Documents/School/4T School Files/DSTALGO/Week10/Week10Thing/bin/Debug/net10.0/Week10Thing.deps.json
+/home/marfz/Documents/School/4T School Files/DSTALGO/Week10/Week10Thing/bin/Debug/net10.0/Week10Thing.runtimeconfig.json
+/home/marfz/Documents/School/4T School Files/DSTALGO/Week10/Week10Thing/bin/Debug/net10.0/Week10Thing.dll
+/home/marfz/Documents/School/4T School Files/DSTALGO/Week10/Week10Thing/bin/Debug/net10.0/Week10Thing.pdb
+/home/marfz/Documents/School/4T School Files/DSTALGO/Week10/Week10Thing/obj/Debug/net10.0/Week10Thing.GeneratedMSBuildEditorConfig.editorconfig
+/home/marfz/Documents/School/4T School Files/DSTALGO/Week10/Week10Thing/obj/Debug/net10.0/Week10Thing.AssemblyInfoInputs.cache
+/home/marfz/Documents/School/4T School Files/DSTALGO/Week10/Week10Thing/obj/Debug/net10.0/Week10Thing.AssemblyInfo.cs
+/home/marfz/Documents/School/4T School Files/DSTALGO/Week10/Week10Thing/obj/Debug/net10.0/Week10Thing.csproj.CoreCompileInputs.cache
+/home/marfz/Documents/School/4T School Files/DSTALGO/Week10/Week10Thing/obj/Debug/net10.0/Week10Thing.sourcelink.json
+/home/marfz/Documents/School/4T School Files/DSTALGO/Week10/Week10Thing/obj/Debug/net10.0/Week10Thing.dll
+/home/marfz/Documents/School/4T School Files/DSTALGO/Week10/Week10Thing/obj/Debug/net10.0/refint/Week10Thing.dll
+/home/marfz/Documents/School/4T School Files/DSTALGO/Week10/Week10Thing/obj/Debug/net10.0/Week10Thing.pdb
+/home/marfz/Documents/School/4T School Files/DSTALGO/Week10/Week10Thing/obj/Debug/net10.0/Week10Thing.genruntimeconfig.cache
+/home/marfz/Documents/School/4T School Files/DSTALGO/Week10/Week10Thing/obj/Debug/net10.0/ref/Week10Thing.dll

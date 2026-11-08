@@ -1,0 +1,15 @@
+/home/marfz/Documents/School/4T School Files/DSTALGO/ADT_Midterms/Midterms/bin/Debug/net10.0/Midterms
+/home/marfz/Documents/School/4T School Files/DSTALGO/ADT_Midterms/Midterms/bin/Debug/net10.0/Midterms.deps.json
+/home/marfz/Documents/School/4T School Files/DSTALGO/ADT_Midterms/Midterms/bin/Debug/net10.0/Midterms.runtimeconfig.json
+/home/marfz/Documents/School/4T School Files/DSTALGO/ADT_Midterms/Midterms/bin/Debug/net10.0/Midterms.dll
+/home/marfz/Documents/School/4T School Files/DSTALGO/ADT_Midterms/Midterms/bin/Debug/net10.0/Midterms.pdb
+/home/marfz/Documents/School/4T School Files/DSTALGO/ADT_Midterms/Midterms/obj/Debug/net10.0/Midterms.GeneratedMSBuildEditorConfig.editorconfig
+/home/marfz/Documents/School/4T School Files/DSTALGO/ADT_Midterms/Midterms/obj/Debug/net10.0/Midterms.AssemblyInfoInputs.cache
+/home/marfz/Documents/School/4T School Files/DSTALGO/ADT_Midterms/Midterms/obj/Debug/net10.0/Midterms.AssemblyInfo.cs
+/home/marfz/Documents/School/4T School Files/DSTALGO/ADT_Midterms/Midterms/obj/Debug/net10.0/Midterms.csproj.CoreCompileInputs.cache
+/home/marfz/Documents/School/4T School Files/DSTALGO/ADT_Midterms/Midterms/obj/Debug/net10.0/Midterms.sourcelink.json
+/home/marfz/Documents/School/4T School Files/DSTALGO/ADT_Midterms/Midterms/obj/Debug/net10.0/Midterms.dll
+/home/marfz/Documents/School/4T School Files/DSTALGO/ADT_Midterms/Midterms/obj/Debug/net10.0/refint/Midterms.dll
+/home/marfz/Documents/School/4T School Files/DSTALGO/ADT_Midterms/Midterms/obj/Debug/net10.0/Midterms.pdb
+/home/marfz/Documents/School/4T School Files/DSTALGO/ADT_Midterms/Midterms/obj/Debug/net10.0/Midterms.genruntimeconfig.cache
+/home/marfz/Documents/School/4T School Files/DSTALGO/ADT_Midterms/Midterms/obj/Debug/net10.0/ref/Midterms.dll

@@ -1,0 +1,15 @@
+/home/marfz/Documents/School/4T School Files/DSTALGO/FINALS/Enrollment_System/bin/Debug/net10.0/Enrollment_System
+/home/marfz/Documents/School/4T School Files/DSTALGO/FINALS/Enrollment_System/bin/Debug/net10.0/Enrollment_System.deps.json
+/home/marfz/Documents/School/4T School Files/DSTALGO/FINALS/Enrollment_System/bin/Debug/net10.0/Enrollment_System.runtimeconfig.json
+/home/marfz/Documents/School/4T School Files/DSTALGO/FINALS/Enrollment_System/bin/Debug/net10.0/Enrollment_System.dll
+/home/marfz/Documents/School/4T School Files/DSTALGO/FINALS/Enrollment_System/bin/Debug/net10.0/Enrollment_System.pdb
+/home/marfz/Documents/School/4T School Files/DSTALGO/FINALS/Enrollment_System/obj/Debug/net10.0/Enrollment_System.GeneratedMSBuildEditorConfig.editorconfig
+/home/marfz/Documents/School/4T School Files/DSTALGO/FINALS/Enrollment_System/obj/Debug/net10.0/Enrollment_System.AssemblyInfoInputs.cache
+/home/marfz/Documents/School/4T School Files/DSTALGO/FINALS/Enrollment_System/obj/Debug/net10.0/Enrollment_System.AssemblyInfo.cs
+/home/marfz/Documents/School/4T School Files/DSTALGO/FINALS/Enrollment_System/obj/Debug/net10.0/Enrollment_System.csproj.CoreCompileInputs.cache
+/home/marfz/Documents/School/4T School Files/DSTALGO/FINALS/Enrollment_System/obj/Debug/net10.0/Enrollment_System.sourcelink.json
+/home/marfz/Documents/School/4T School Files/DSTALGO/FINALS/Enrollment_System/obj/Debug/net10.0/Enrollment_System.dll
+/home/marfz/Documents/School/4T School Files/DSTALGO/FINALS/Enrollment_System/obj/Debug/net10.0/refint/Enrollment_System.dll
+/home/marfz/Documents/School/4T School Files/DSTALGO/FINALS/Enrollment_System/obj/Debug/net10.0/Enrollment_System.pdb
+/home/marfz/Documents/School/4T School Files/DSTALGO/FINALS/Enrollment_System/obj/Debug/net10.0/Enrollment_System.genruntimeconfig.cache
+/home/marfz/Documents/School/4T School Files/DSTALGO/FINALS/Enrollment_System/obj/Debug/net10.0/ref/Enrollment_System.dll

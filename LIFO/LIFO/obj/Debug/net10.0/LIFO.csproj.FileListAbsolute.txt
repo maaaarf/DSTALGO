@@ -1,0 +1,15 @@
+/home/marfz/Documents/School/4T School Files/DSTALGO/LIFO/LIFO/bin/Debug/net10.0/LIFO
+/home/marfz/Documents/School/4T School Files/DSTALGO/LIFO/LIFO/bin/Debug/net10.0/LIFO.deps.json
+/home/marfz/Documents/School/4T School Files/DSTALGO/LIFO/LIFO/bin/Debug/net10.0/LIFO.runtimeconfig.json
+/home/marfz/Documents/School/4T School Files/DSTALGO/LIFO/LIFO/bin/Debug/net10.0/LIFO.dll
+/home/marfz/Documents/School/4T School Files/DSTALGO/LIFO/LIFO/bin/Debug/net10.0/LIFO.pdb
+/home/marfz/Documents/School/4T School Files/DSTALGO/LIFO/LIFO/obj/Debug/net10.0/LIFO.GeneratedMSBuildEditorConfig.editorconfig
+/home/marfz/Documents/School/4T School Files/DSTALGO/LIFO/LIFO/obj/Debug/net10.0/LIFO.AssemblyInfoInputs.cache
+/home/marfz/Documents/School/4T School Files/DSTALGO/LIFO/LIFO/obj/Debug/net10.0/LIFO.AssemblyInfo.cs
+/home/marfz/Documents/School/4T School Files/DSTALGO/LIFO/LIFO/obj/Debug/net10.0/LIFO.csproj.CoreCompileInputs.cache
+/home/marfz/Documents/School/4T School Files/DSTALGO/LIFO/LIFO/obj/Debug/net10.0/LIFO.sourcelink.json
+/home/marfz/Documents/School/4T School Files/DSTALGO/LIFO/LIFO/obj/Debug/net10.0/LIFO.dll
+/home/marfz/Documents/School/4T School Files/DSTALGO/LIFO/LIFO/obj/Debug/net10.0/refint/LIFO.dll
+/home/marfz/Documents/School/4T School Files/DSTALGO/LIFO/LIFO/obj/Debug/net10.0/LIFO.pdb
+/home/marfz/Documents/School/4T School Files/DSTALGO/LIFO/LIFO/obj/Debug/net10.0/LIFO.genruntimeconfig.cache
+/home/marfz/Documents/School/4T School Files/DSTALGO/LIFO/LIFO/obj/Debug/net10.0/ref/LIFO.dll

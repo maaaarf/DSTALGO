@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lbPAB9sr7aI=",
+  "success": true,
+  "projectFilePath": "/home/marfz/Documents/School/4T School Files/DSTALGO/ADT_Midterms/Midterms/Midterms.csproj",
+  "expectedPackageFiles": [
+    "/home/marfz/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.13/microsoft.aspnetcore.app.ref.10.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

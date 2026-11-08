@@ -10,6 +10,11 @@ namespace BankSystem
         private int pinNumber = 1234;
         private int pinAuthCounter = 0;
         public bool accAuth = false;
+        private static string accountHolder = "";
+
+        private static int accHoldSize = 1;
+        private static int index = -1;
+        public static string[] accountHolderArray = new string[accHoldSize];
 
         // public BankActions()
         // {
@@ -28,6 +33,19 @@ namespace BankSystem
         public void View()
         {
             Console.WriteLine($"Account balance: ${balance}");
+        }
+
+        public static void createAccount(string accountName)
+        {
+            BankActions accountHolderArray = new BankActions();
+            index++;
+            accountHolderArray[index] = ;
+        }
+
+        public static void getAccountHolderName()
+        {
+            Console.Write("Enter the account holder's name: ");
+            accountHolder = Console.ReadLine();
         }
 
         public void PIN()
@@ -62,6 +80,7 @@ namespace BankSystem
     {
         public static void Main(string[] args)
         {
+
             BankActions Acc1 = new BankActions();
             Acc1.PIN();
             bool Acc1Authen = Acc1.accAuth;

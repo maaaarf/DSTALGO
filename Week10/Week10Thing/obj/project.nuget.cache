@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "T/wv58DSqe8=",
+  "success": true,
+  "projectFilePath": "/home/marfz/Documents/School/4T School Files/DSTALGO/Week10/Week10Thing/Week10Thing.csproj",
+  "expectedPackageFiles": [
+    "/home/marfz/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.13/microsoft.aspnetcore.app.ref.10.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

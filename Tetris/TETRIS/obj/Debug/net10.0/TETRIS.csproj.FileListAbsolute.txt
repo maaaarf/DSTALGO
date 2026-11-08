@@ -1,0 +1,15 @@
+/home/marfz/Documents/School/4T School Files/DSTALGO/Tetris/TETRIS/bin/Debug/net10.0/TETRIS
+/home/marfz/Documents/School/4T School Files/DSTALGO/Tetris/TETRIS/bin/Debug/net10.0/TETRIS.deps.json
+/home/marfz/Documents/School/4T School Files/DSTALGO/Tetris/TETRIS/bin/Debug/net10.0/TETRIS.runtimeconfig.json
+/home/marfz/Documents/School/4T School Files/DSTALGO/Tetris/TETRIS/bin/Debug/net10.0/TETRIS.dll
+/home/marfz/Documents/School/4T School Files/DSTALGO/Tetris/TETRIS/bin/Debug/net10.0/TETRIS.pdb
+/home/marfz/Documents/School/4T School Files/DSTALGO/Tetris/TETRIS/obj/Debug/net10.0/TETRIS.GeneratedMSBuildEditorConfig.editorconfig
+/home/marfz/Documents/School/4T School Files/DSTALGO/Tetris/TETRIS/obj/Debug/net10.0/TETRIS.AssemblyInfoInputs.cache
+/home/marfz/Documents/School/4T School Files/DSTALGO/Tetris/TETRIS/obj/Debug/net10.0/TETRIS.AssemblyInfo.cs
+/home/marfz/Documents/School/4T School Files/DSTALGO/Tetris/TETRIS/obj/Debug/net10.0/TETRIS.csproj.CoreCompileInputs.cache
+/home/marfz/Documents/School/4T School Files/DSTALGO/Tetris/TETRIS/obj/Debug/net10.0/TETRIS.sourcelink.json
+/home/marfz/Documents/School/4T School Files/DSTALGO/Tetris/TETRIS/obj/Debug/net10.0/TETRIS.dll
+/home/marfz/Documents/School/4T School Files/DSTALGO/Tetris/TETRIS/obj/Debug/net10.0/refint/TETRIS.dll
+/home/marfz/Documents/School/4T School Files/DSTALGO/Tetris/TETRIS/obj/Debug/net10.0/TETRIS.pdb
+/home/marfz/Documents/School/4T School Files/DSTALGO/Tetris/TETRIS/obj/Debug/net10.0/TETRIS.genruntimeconfig.cache
+/home/marfz/Documents/School/4T School Files/DSTALGO/Tetris/TETRIS/obj/Debug/net10.0/ref/TETRIS.dll

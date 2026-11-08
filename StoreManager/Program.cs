@@ -13,9 +13,9 @@ class Program
         public double RestockCost { get; set; }
         // public bool isExpired { get; set; }
 
-        public static Sell()
+        public static void Sell()
         {
-            return;
+            
         }
 
     }
